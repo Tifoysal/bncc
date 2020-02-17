@@ -8,20 +8,20 @@
   <meta content="" name="description">
 
   <!-- Favicons -->
-  <link href="img/FaviconBNCC.jpg" rel="icon">
+  <link href="{{asset('img/FaviconBNCC.jpg')}}" rel="icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
 
   <!-- Bootstrap CSS File -->
-  <link href="{{url('lib/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
+  <link href="{{asset('lib/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
 
   <!-- Libraries CSS Files -->
-  <link href="{{url('lib/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
-  <link href="{{url('lib/animate/animate.min.css')}}" rel="stylesheet">
-  <link href="{{url('lib/ionicons/css/ionicons.min.css')}}" rel="stylesheet">
-  <link href="{{url('lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
-  <link href="{{url('lib/lightbox/css/lightbox.min.css')}}" rel="stylesheet">
+  <link href="{{asset('lib/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
+  <link href="{{asset('lib/animate/animate.min.css')}}" rel="stylesheet">
+  <link href="{{asset('lib/ionicons/css/ionicons.min.css')}}" rel="stylesheet">
+  <link href="{{asset('lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
+  <link href="{{asset('lib/lightbox/css/lightbox.min.css')}}" rel="stylesheet">
 
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
@@ -40,7 +40,7 @@
 
   	<link rel="stylesheet" type="text/css" href="backend/css/util.css">
 	<link rel="stylesheet" type="text/css" href="backend/css/main.css">
-    <link rel="stylesheet" type="text/css" href="{{url('css/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
 
 </head>
 
