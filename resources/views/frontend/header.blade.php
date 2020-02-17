@@ -56,7 +56,7 @@
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <h1 class="text-light"><a href="#header"><span>NewBiz</span></a></h1> -->
         <a href="{{route('home')}}" class="scrollto">
-            <img src="img/BNCC-Logo.png" alt="" class="img-fluid">
+            <img src="{{asset('img/BNCC-Logo.png')}}" alt="" class="img-fluid">
         </a>
       </div>
 

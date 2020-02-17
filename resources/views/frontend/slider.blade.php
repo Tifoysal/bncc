@@ -13,35 +13,35 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active">
-            <img src="img/slider/1.1.jpg" alt="Los Angeles" style="width:100%;">
+            <img src="{{asset('img/slider/1.1.jpg')}}" alt="Los Angeles" style="width:100%;">
           </div>
 
           <div class="item">
-            <img src="img/slider/1.2.jpg" alt="Chicago" style="width:100%;">
+            <img src="{{asset('img/slider/1.2.jpg')}}" alt="Chicago" style="width:100%;">
           </div>
 
           <div class="item">
-            <img src="img/slider/1.3.jpg" alt="New york" style="width:100%;">
-          </div>
-            
-          <div class="item">
-            <img src="img/slider/1.4.jpg" alt="Los Angeles" style="width:100%;">
+            <img src="{{asset('img/slider/1.3.jpg')}}" alt="New york" style="width:100%;">
           </div>
 
           <div class="item">
-            <img src="img/slider/1.5.jpg" alt="Chicago" style="width:100%;">
+            <img src="{{asset('img/slider/1.4.jpg')}}" alt="Los Angeles" style="width:100%;">
           </div>
 
           <div class="item">
-            <img src="img/slider/1.6.jpg" alt="New york" style="width:100%;">
-          </div>
-            
-          <div class="item">
-            <img src="img/slider/1.7.jpg" alt="Los Angeles" style="width:100%;">
+            <img src="{{asset('img/slider/1.5.jpg')}}" alt="Chicago" style="width:100%;">
           </div>
 
           <div class="item">
-            <img src="img/slider/1.8.jpg" alt="Chicago" style="width:100%;">
+            <img src="{{asset('img/slider/1.6.jpg')}}" alt="New york" style="width:100%;">
+          </div>
+
+          <div class="item">
+            <img src="{{asset('img/slider/1.7.jpg')}}" alt="Los Angeles" style="width:100%;">
+          </div>
+
+          <div class="item">
+            <img src="{{asset('img/slider/1.8.jpg')}}" alt="Chicago" style="width:100%;">
           </div>
         </div>
 
