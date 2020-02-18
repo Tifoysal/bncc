@@ -6,9 +6,9 @@
         <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/drill.png" data-lightbox="gallery-mf">
+            <a href="{{asset('img/drill.png')}}" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/drill.png" alt="" class="img-fluid">
+                <a href="{{asset('img/drill.png')}}" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -23,9 +23,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/side-rolling.png" data-lightbox="gallery-mf">
+            <a href="{{asset('img/side-rolling.png')}}" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/side-rolling.png" alt="" class="img-fluid">
+                <a href="{{asset('img/side-rolling.png')}}" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -40,9 +40,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/artilary.jpg" data-lightbox="gallery-mf">
+            <a href="{{asset('img/artilary.jpg')}}" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/artilary.jpg" alt="" class="img-fluid">
+                <a href="{{asset('img/artilary.jpg')}}" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -57,9 +57,9 @@
         </div>
                 <div class="col-md-4">
           <div class="work-box">
-            <a href="img/drill.png" data-lightbox="gallery-mf">
+            <a href="{{asset('img/drill.png')}}" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/drill.png" alt="" class="img-fluid">
+                <a href="{{asset('img/drill.png')}}" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -74,9 +74,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/side-rolling.png" data-lightbox="gallery-mf">
+            <a href="{{asset('img/side-rolling.png')}}" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/side-rolling.png" alt="" class="img-fluid">
+                <a href="{{asset('img/side-rolling.png')}}" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">
@@ -91,9 +91,9 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="img/artilary.jpg" data-lightbox="gallery-mf">
+            <a href="{{asset('img/artilary.jpg')}}" data-lightbox="gallery-mf">
               <div class="work-img">
-                <img src="img/artilary.jpg" alt="" class="img-fluid">
+                <a href="{{asset('img/artilary.jpg')}}" alt="" class="img-fluid">
               </div>
               <div class="work-content">
                 <div class="row">

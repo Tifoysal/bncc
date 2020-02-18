@@ -6,7 +6,7 @@
         </header>
         <div class="row">
             <div class="col-lg-5 col-md-6">
-            <img src="img/PUO-Rakib-Sir.jpg" class="rounded img-thumbnail"/>
+            <img src="{{asset('img/PUO-Rakib-Sir.jpg')}}" class="rounded img-thumbnail"/>
             <br><br>
             <h4>M.M. Rakibul Hasan</h4>
             <h5>PUO, IUBAT BNCC Male Platoon</h5>
@@ -15,7 +15,7 @@
             </p>
             </div>
             <div class="col-lg-5 col-md-6 col-lg-offset-2">
-            <img src="img/PUO-Anika-Mam.png" class="rounded img-thumbnail"/>
+            <img src="{{asset('img/PUO-Anika-Mam.png')}}" class="rounded img-thumbnail"/>
             <br><br>
             <h4>Johura Jabin Anika</h4>
             <h5>PUO, IUBAT BNCC Female Platoon</h5>

@@ -295,7 +295,7 @@
         }); 
     </script>
     @endpush()
-        <script src="backend/js/main.js"></script>
+        <script src="{{asset('backend/js/main.js')}}"></script>
 
         </div>
     </div>
