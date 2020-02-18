@@ -54,7 +54,7 @@ return [
 
     'url' => env('APP_URL', 'http://iubatbnccplatoon.org'),
 
-    'asset_url' => env('ASSET_URL', 'http://iubatbnccplatoon.org'),
+    'asset_url' => env('ASSET_URL', 'http://iubatbnccplatoon.org/public'),
 
     /*
     |--------------------------------------------------------------------------
