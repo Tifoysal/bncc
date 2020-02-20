@@ -30,16 +30,16 @@
   <!-- Latest compiled JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <!--============================================================================================-->
-    <link rel="stylesheet" type="text/css" href="backend/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="{{asset('backend/fonts/font-awesome-4.7.0/css/font-awesome.min.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="backend/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+	<link rel="stylesheet" type="text/css" href="{{asset('backend/fonts/Linearicons-Free-v1.0.0/icon-font.min.css')}}">
 <!--===============================================================================================-->
-	<link rel="stylesheet" type="text/css" href="backend/vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="{{asset('backend/vendor/animate/animate.css')}}">
 
   <!-- Main Stylesheet File -->
 
-  	<link rel="stylesheet" type="text/css" href="backend/css/util.css">
-	<link rel="stylesheet" type="text/css" href="backend/css/main.css">
+  	<link rel="stylesheet" type="text/css" href="{{asset('backend/css/util.css')}}">
+	<link rel="stylesheet" type="text/css" href="{{asset('backend/css/main.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
 
 </head>
